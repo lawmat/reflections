@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new hidden directory is created to store all the version history for the directory you are tracking. You'll need to do this in order to start using git to track version history.
