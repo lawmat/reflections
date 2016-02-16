@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 A new hidden directory is created to store all the version history for the directory you are tracking. You'll need to do this in order to start using git to track version history.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows you to hold files that are ready to be committed, the working directory holds all your current files or checked out files. The repository contains all versions of all files that have been commited in the working directory.
